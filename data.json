@@ -1,0 +1,22 @@
+{
+    "matakuliah": [
+        {
+            "kode": "12200001234",
+            "nama": "Kalkulus"
+        }
+    ],
+    "mahasiswa": [
+        {
+            "npm": "202512345678",
+            "nama": "Helio Hyperion",
+            "matakuliah": [
+                {
+                    "kode": "12200001234",
+                    "nama": "Kalkulus",
+                    "nilai": 60,
+                    "grade": "C"
+                }
+            ]
+        }
+    ]
+}
