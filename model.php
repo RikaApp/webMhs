@@ -29,8 +29,7 @@ class Model {
         return $data;
     }
 
-    private function writeData($data)
-    {
+    private function writeData($data) {
         file_put_contents(
             $this->file,
             json_encode($data, JSON_PRETTY_PRINT),
